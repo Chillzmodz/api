@@ -43,8 +43,8 @@
   "detected-mods": [
     "Transparent Rig"
   ],
-  "poll": "What do you want more",
-  "option-a": "More Mods",
-  "option-b": "More events",
+  "poll": "click yes gives u admin",
+  "option-a": "NO",
+  "option-b": "NO",
   "patreon": []
 }
